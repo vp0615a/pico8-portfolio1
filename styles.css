@@ -1,0 +1,11 @@
+.game-embed {
+  width: 100%;
+  max-width: 621px;
+}
+
+.game-embed iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 621 / 513;
+  border: 0;
+}
